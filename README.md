@@ -30,27 +30,7 @@ Tableau
    ↓
 Business Insights
 
-                    ┌─────────────────────┐
-                    │       Analyse       │
-                    │ AI Analytics        │
-                    │ Platform            │
-                    └──────────┬──────────┘
-                               │
-        ┌──────────────────────┼──────────────────────┐
-        │                      │                      │
-        ▼                      ▼                      ▼
-   Excel Engine           Python Analytics       SQL Analysis
-        │                      │                      │
-        └──────────────────────┼──────────────────────┘
-                               │
-                               ▼
-                      Visualization Engine
-                               │
-                               ▼
-                     AI Analytics Assistant
-                               │
-                               ▼
-                       Business Insights
+                  
 
                        Core Capabilities
 
