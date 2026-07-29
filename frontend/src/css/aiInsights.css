@@ -1,0 +1,31 @@
+.insightCard{
+
+background:white;
+
+padding:25px;
+
+border-radius:20px;
+
+box-shadow:0 8px 20px rgba(0,0,0,.05);
+
+}
+
+.insightCard h2{
+
+margin-bottom:20px;
+
+}
+
+.insightCard ul{
+
+padding-left:18px;
+
+}
+
+.insightCard li{
+
+margin-bottom:15px;
+
+color:#334155;
+
+}

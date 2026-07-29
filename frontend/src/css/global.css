@@ -1,0 +1,33 @@
+/* ===========================================
+   ANALYSE DESIGN SYSTEM
+===========================================*/
+
+:root{
+
+--primary:#2563eb;
+--primary-dark:#1d4ed8;
+--secondary:#3b82f6;
+
+--success:#22c55e;
+--warning:#f59e0b;
+--danger:#ef4444;
+
+--dark:#0f172a;
+--dark2:#1e293b;
+
+--light:#f8fafc;
+--white:#ffffff;
+
+--gray:#64748b;
+--gray-light:#cbd5e1;
+
+--shadow-sm:0 4px 12px rgba(0,0,0,.06);
+--shadow:0 10px 25px rgba(0,0,0,.08);
+--shadow-lg:0 20px 45px rgba(0,0,0,.12);
+
+--radius:18px;
+--radius-lg:26px;
+
+--transition:.30s ease;
+
+}

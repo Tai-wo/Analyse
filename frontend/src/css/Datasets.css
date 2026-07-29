@@ -1,0 +1,81 @@
+.datasets-page{
+
+    padding:40px;
+
+    background:#f5f7fb;
+
+    min-height:100vh;
+
+}
+
+.datasetTable{
+
+    background:white;
+
+    margin-top:30px;
+
+    border-radius:20px;
+
+    overflow:hidden;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.08);
+
+}
+
+table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+}
+
+thead{
+
+    background:#2563eb;
+
+    color:white;
+
+}
+
+th,td{
+
+    padding:18px;
+
+    text-align:left;
+
+}
+
+tbody tr{
+
+    border-bottom:1px solid #edf2f7;
+
+}
+
+tbody tr:hover{
+
+    background:#f8fafc;
+
+}
+
+td button{
+
+    margin-right:10px;
+
+    border:none;
+
+    background:#eff6ff;
+
+    padding:10px;
+
+    border-radius:10px;
+
+    cursor:pointer;
+
+}
+
+td svg{
+
+    color:#2563eb;
+
+}

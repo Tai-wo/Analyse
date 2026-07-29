@@ -1,0 +1,101 @@
+.primaryButton{
+
+background:#2563eb;
+
+color:white;
+
+border:none;
+
+padding:15px 28px;
+
+border-radius:14px;
+
+font-weight:600;
+
+transition:.3s;
+
+}
+
+.primaryButton:hover{
+
+transform:translateY(-3px);
+
+box-shadow:0 10px 25px rgba(37,99,235,.25);
+
+}
+
+.secondaryButton{
+
+background:white;
+
+border:1px solid #d1d5db;
+
+padding:15px 28px;
+
+border-radius:14px;
+
+font-weight:600;
+
+}
+
+.glass{
+
+backdrop-filter:blur(18px);
+
+background:rgba(255,255,255,.65);
+
+border:1px solid rgba(255,255,255,.3);
+
+}
+
+.badge{
+
+display:inline-flex;
+
+align-items:center;
+
+padding:8px 14px;
+
+background:#eff6ff;
+
+color:#2563eb;
+
+border-radius:999px;
+
+font-size:13px;
+
+font-weight:600;
+
+}
+
+.table{
+
+width:100%;
+
+border-collapse:collapse;
+
+}
+
+.table th{
+
+background:#f8fafc;
+
+padding:18px;
+
+text-align:left;
+
+}
+
+.table td{
+
+padding:18px;
+
+border-bottom:1px solid #e5e7eb;
+
+}
+
+.table tr:hover{
+
+background:#f8fafc;
+
+}

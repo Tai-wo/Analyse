@@ -1,0 +1,33 @@
+.activityCard{
+
+margin-top:35px;
+
+background:white;
+
+padding:25px;
+
+border-radius:20px;
+
+box-shadow:0 8px 20px rgba(0,0,0,.05);
+
+}
+
+.activityCard h2{
+
+margin-bottom:20px;
+
+}
+
+.activityItem{
+
+padding:16px;
+
+border-left:4px solid #2563eb;
+
+margin-bottom:15px;
+
+background:#f8fafc;
+
+border-radius:10px;
+
+}
