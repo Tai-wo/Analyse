@@ -1,4 +1,4 @@
-# Analyse — AI Analytics Platform
+# Analyse-AI Analytics Platform
 
 An AI-powered analytics platform designed to bring the capabilities of **Microsoft Excel, Python, SQL, Tableau, and AI-powered analytics assistance** into a single intelligent workspace.
 
@@ -30,29 +30,8 @@ Tableau
    ↓
 Business Insights
 
-                    ┌─────────────────────┐
-                    │       Analyse       │
-                    │ AI Analytics        │
-                    │ Platform            │
-                    └──────────┬──────────┘
-                               │
-        ┌──────────────────────┼──────────────────────┐
-        │                      │                      │
-        ▼                      ▼                      ▼
-   Excel Engine           Python Analytics       SQL Analysis
-        │                      │                      │
-        └──────────────────────┼──────────────────────┘
-                               │
-                               ▼
-                      Visualization Engine
-                               │
-                               ▼
-                     AI Analytics Assistant
-                               │
-                               ▼
-                       Business Insights
 
-                       Core Capabilities
+                  Core Capabilities
 
 Analyse is being developed around several major analytical capabilities.
 
